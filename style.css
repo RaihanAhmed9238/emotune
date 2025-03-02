@@ -1,6 +1,48 @@
 body {
-    background-color:rgb(232, 148, 204);
-    font-size:large;
-    font-style: italic;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eece2091-6cec-4353-847a-e06a64df4de2/dg5b1yv-534abec1-250c-4bf5-9987-ca18fbcef660.jpg/v1/fill/w_1280,h_1280,q_75,strp/aesthetic_background_with_soft_color_pattern__by_zeecobywilanda_dg5b1yv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2VlY2UyMDkxLTZjZWMtNDM1My04NDdhLWUwNmE2NGRmNGRlMlwvZGc1YjF5di01MzRhYmVjMS0yNTBjLTRiZjUtOTk4Ny1jYTE4ZmJjZWY2NjAuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.igaSVgc0_s067MVTZ3GIPAg8ZxlwCpiDBN2nzctR0Mo);
     text-align:center;
+    font-size:50px;
+    color:rgb(255, 182, 182);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+a {
+    font-size:30px;
+    color:darkmagenta;
+    
+}
+.happy {
+    background-color: rgb(255, 240, 146);
+    padding:10px;
+    border-radius:20px;
+    border-style:solid;
+    border-color:rgb(250, 235, 180);
+    color:burlywood
+}
+.mad {
+    padding:5px;
+    border-color:rgb(136, 42, 61);
+    background-color:rgb(137, 41, 60);
+    padding:10px;
+    border-style:solid;
+    border-radius:20px;
+    color:rgb(75, 24, 24)
+}
+.neutral {
+    padding:5px;
+    border-color:rgb(255, 255, 255);
+    background-color:rgb(255, 255, 255);
+    padding:6px;
+    border-style:solid;
+    border-radius:20px;
+    color:rgb(0, 0, 0)
+}
+.sad {
+    padding:5px;
+    border-color:rgb(63, 96, 175);
+    background-color:rgb(59, 78, 146);
+    padding:6px;
+    border-style:solid;
+    border-radius:20px;
+    color:rgb(129, 142, 195)
 }
