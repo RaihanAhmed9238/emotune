@@ -40,7 +40,7 @@ async function makePlaylist(keywords) {
     return r.split(", ");
 }
 
-const playlist = await makePlaylist(["Happy", "Taylor", "Swift"]);
+const playlist = await makePlaylist(["Sad", "Mellow", "Heart-breaking", "Depressing", "Family-Friendly"]);
 for (const song of playlist) {
     const el = document.createElement('li');
     el.textContent = song;

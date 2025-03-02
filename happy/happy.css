@@ -53,10 +53,3 @@ label {
     border-style: double;
     border-radius: 50px;
 }
-
-.square {
-    width: 25px;
-    height: 25px;
-    background: red;
-display: inline-block;
-}
