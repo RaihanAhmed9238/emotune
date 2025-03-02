@@ -41,3 +41,18 @@ li {
     border-width: 1px;
     border-style: solid;
 }
+
+/* Navigation Menu */
+nav {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 25px;
+    font-size: 40px;
+    background: rgba(255, 255, 255, 0.699);
+    text-decoration: none;
+}
+
+#nav {
+    color: black;
+}

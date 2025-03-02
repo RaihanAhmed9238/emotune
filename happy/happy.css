@@ -66,14 +66,17 @@ dialog {
     border: none;
 }
 
+/* Navigation Menu */
 nav {
     display: flex; 
     flex-direction: row;
     justify-content: space-around;
-    margin: 40px;
-    padding: 10px;
+    padding: 25px;
     font-size: 40px;
-    background: red;
+    background: rgba(255, 255, 255, 0.699);
     text-decoration: none;
-    
+}
+
+#nav {
+    color: black;
 }
