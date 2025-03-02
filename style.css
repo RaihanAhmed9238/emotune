@@ -13,7 +13,7 @@ a {
 }
 .happy {
     background-color: rgb(255, 240, 146);
-    padding:10px;
+    padding:20px;
     border-radius:20px;
     border-style:solid;
     border-color:rgb(250, 235, 180);
@@ -23,7 +23,7 @@ a {
     padding:5px;
     border-color:rgb(136, 42, 61);
     background-color:rgb(137, 41, 60);
-    padding:10px;
+    padding:20px;
     border-style:solid;
     border-radius:20px;
     color:rgb(75, 24, 24)
@@ -32,7 +32,7 @@ a {
     padding:5px;
     border-color:rgb(255, 255, 255);
     background-color:rgb(255, 255, 255);
-    padding:6px;
+    padding:20px;
     border-style:solid;
     border-radius:20px;
     color:rgb(0, 0, 0)
@@ -41,7 +41,7 @@ a {
     padding:5px;
     border-color:rgb(63, 96, 175);
     background-color:rgb(59, 78, 146);
-    padding:6px;
+    padding:20px;
     border-style:solid;
     border-radius:20px;
     color:rgb(129, 142, 195)
@@ -52,7 +52,7 @@ nav {
     display: flex; 
     flex-direction: row;
     justify-content: space-around;
-    padding: 25px;
+    padding: 40px;
     font-size: 40px;
     background: rgba(255, 255, 255, 0.699);
     text-decoration: none;
