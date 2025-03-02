@@ -1,0 +1,10 @@
+/* Square */
+.square {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background: black;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
