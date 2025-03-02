@@ -1,3 +1,16 @@
+// to-do list
+document.getElementById('add').addEventListener('click', () => {
+    let inp = document.getElementById('item');
+    let check = document.createElement('input');
+    check.type = 'checkbox';
+    let label = document.createElement('label');
+    label.textContent = inp.value;
+    label.prepend(check);
+    inp.value = '';
+    document.getElementById('list').append(label);
+  });
+
+// playlist
 const url = "https://api.groq.com/openai/v1/chat/completions";
 const apiKey = "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";
 
