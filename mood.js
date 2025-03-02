@@ -1,4 +1,4 @@
-let colors = ['green', 'blue', 'black', 'red'];
+let colors = ['yellow', 'blue', 'red', 'white'];
 
 for (const square of document.querySelectorAll('.square')) {
     square.addEventListener('click', () => {

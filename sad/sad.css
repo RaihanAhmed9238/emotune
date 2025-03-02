@@ -53,3 +53,21 @@ label {
     border-style: double;
     border-radius: 50px;
 }
+
+/* Water Reminder Alert */
+.square {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+dialog {
+    opacity: 0;
+    font-size: 50px;
+    color: mediumturquoise;
+    transition: opacity 1000ms;
+    border-radius: 20px;
+    border-color: lightblue;
+    background-color: white;
+    border: none;
+}
