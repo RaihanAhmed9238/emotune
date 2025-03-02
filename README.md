@@ -9,3 +9,7 @@
 Used the Groq API for text completions for song suggestions
 https://groq.com/
 (not to be confused with Grok)
+
+<br>
+
+Blueprint 2025 submission
