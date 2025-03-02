@@ -60,3 +60,12 @@ label {
     background: red;
 display: inline-block;
 }
+
+dialog {
+    opacity: 0;
+    font-size: 100px;
+    transition: opacity 1000ms;
+    border-radius: 20px;
+    background: brown;
+    border: none;
+}
