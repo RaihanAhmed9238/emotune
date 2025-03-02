@@ -1,7 +1,3 @@
-# Website
-
-
-
 # EmoTune
 <br>
 
