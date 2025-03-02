@@ -65,3 +65,15 @@ dialog {
     background-color: white;
     border: none;
 }
+
+nav {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 40px;
+    padding: 10px;
+    font-size: 40px;
+    background: red;
+    text-decoration: none;
+    
+}
